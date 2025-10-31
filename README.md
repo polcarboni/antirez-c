@@ -1,10 +1,15 @@
-Notes and code from antriez youtube C course: https://www.youtube.com/playlist?list=PLrEMgOSrS_3cFJpM2gdw8EGFyRBZOyAKY
+**Notes and code from antriez youtube C course**
 
-Lessons outline:
+https://www.youtube.com/playlist?list=PLrEMgOSrS_3cFJpM2gdw8EGFyRBZOyAKY
+
+**Lessons outline**:
+
 1. GCC compiler: create executable and assembly code
 2. Main function, Assembly
 3. Local/global variables
+
 ...
+
 8. Game of life implementation
 9. Pointers: introduction
 10. Pointers: math
