@@ -25,3 +25,4 @@ https://www.youtube.com/playlist?list=PLrEMgOSrS_3cFJpM2gdw8EGFyRBZOyAKY
 20. Posix system calls: memory map (mmap)
 21. Union, bitfield
 22. Function pointers
+23. Forth compiler: language introduction, data structures
