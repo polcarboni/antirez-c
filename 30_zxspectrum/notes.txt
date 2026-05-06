@@ -1,0 +1,29 @@
+Why C is so effective and useful for the solution of some problems?
+
+ZX SPECTRUM: 
+Despite the graphic capabilities of spectrum (old PC) being limited for
+gaming it provided good capabilities of showing introduction screens
+(with lot of colors).
+
+Colors can only be changed for 8x8 blocks. (Does not support sprites).
+
+
+
+Provided an image, the program turns the image ina a fromat that can
+be used by the ZX spectrum:
+
+    ./zxfy image.png
+
+The program first turn a pixel noise into the image through different
+generations showing the difference from the original image.
+
+It does not contain any DITHERING: uses an evolutive algorithm.
+
+After the B&W pixel generation the image get coloured.
+This is CURRICULUM LEARNING: separating the steps provide better results:
+
+A last phase will changeboth color and shapes.
+
+This uses API calls from the libraries png.h and SDL.h (another program
+has been used for this purpose since it probably provides a better
+API than the original libraries).
